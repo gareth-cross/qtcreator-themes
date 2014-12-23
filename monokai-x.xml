@@ -29,6 +29,7 @@
   <style name="Operator" foreground="#e4e4e4"/>
   <style name="Parentheses" foreground="#e4e4e4"/>
   <style name="Preprocessor" foreground="#ae80ff" bold="true"/>
+  <style name="PrimitiveType" foreground="#f92672" bold="false"/>
   <style name="RemovedLine" foreground="#ff0000"/>
   <style name="SearchResult" foreground="#000000" background="#646464"/>
   <style name="SearchScope" foreground="#000000" background="#f8fafc"/>
