@@ -50,4 +50,5 @@
   <style name="DiffSourceChar" foreground="#ff0000" background="#484739"/>
   <style name="DiffDestLine" foreground="#00e100" background="#272822"/>
   <style name="DiffDestChar" foreground="#00ff00" background="#484739"/>
+  <style name="PrimitiveType" foreground="#f92672" bold="false"/>
 </style-scheme>
